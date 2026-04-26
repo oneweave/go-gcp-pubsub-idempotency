@@ -1,4 +1,4 @@
-# oneweave-go-pubsub-idempotency
+# go-gcp-pubsub-idempotency
 
 oneweave-go-pubsub-idempotency is a small Go library that helps ensure Pub/Sub message handlers process each message ID only once after successful completion.
 
