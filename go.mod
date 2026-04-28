@@ -1,4 +1,4 @@
-module github.com/oneweave/oneweave-go-pubsub-idempotency
+module github.com/oneweave/go-gcp-pubsub-idempotency
 
 go 1.23.0
 
